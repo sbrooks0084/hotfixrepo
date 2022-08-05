@@ -10,3 +10,16 @@
     color: aqua;
     font-style: italic;
 }
+
+.btn {
+    background: aqua;
+    color: #333;
+    padding: .5rem;
+    border: none;
+    transition: padding .5s ease;
+}
+
+.btn:hover {
+    cursor: pointer;
+    padding: .7rem;
+}
